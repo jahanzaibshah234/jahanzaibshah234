@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jahanzaib Shah! 👨‍💻
+# 👋 Hi there, I'm Jahanzaib Khalid! 👨‍💻
 
 🎓 AI Student at Islamia University Bahawalpur  
 💻 Python Programmer | Machine Learning Enthusiast | Prompt Engineer | DeepLearning.AI Certified | Team Worker | Lifelong Learner  
