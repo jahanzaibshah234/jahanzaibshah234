@@ -12,13 +12,13 @@
 
 ## 📊 GitHub Stats
 
-![Jahanzaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahanzaibshah234&show_icons=true&theme=radical&cache_seconds=1800)
+![Jahanzaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahanzaibshah234&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 ---
 
 ## 📅 GitHub Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jahanzaibshah234&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahanzaibshah234&theme=radical&hide_border=true)
 
 ---
 
