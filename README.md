@@ -13,10 +13,11 @@
 
 ## 💡 Skills
 
-- Python  
+- Python
+- Prompt Engineering
+- SQL
 - Machine Learning (Supervised Learning)  
-- NumPy, Pandas, Matplotlib  
-- AI Concepts & DeepLearning.AI Supervised Machine Learning Certified  
+- NumPy, Pandas, Matplotlib    
 - Public Speaking & Leadership
 - Team Collaboration 
 
